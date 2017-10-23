@@ -1,0 +1,50 @@
+body {
+	background-image: url("C:/Users/objga/Desktop/code/Basic-Portfolio/assets/images/green_cup.png");
+	margin:auto;
+	font-family:Arial;
+}
+
+#header {
+	background:#FFFFFF;
+	font-family:Arial;
+	font-size:25px;
+	width:100%;
+	margin-top:0px;
+	float:right;
+	clear:right;
+}
+h1 {
+	width:500px;
+	margin-left:250px;
+	margin-top:25px;
+	margin-bottom:0px;
+	padding:10px;
+	font-family: "Georgia";
+	font-size: 50px;
+	color:#FFFFFF;
+	background:#4aaaa5;
+	text-align:center;
+	float:left;
+}
+
+}
+p, a {
+	font-family:Arial;
+}
+
+li {
+	display:inline;
+}
+.navlink {
+	display:inline;
+	float:right;
+	margin-top:25px;
+	margin-right:250px;
+	padding:10px;
+	color:#777777;
+	text-decoration:none;
+	width:5%;
+}
+.container {
+	clear:both;
+}
