@@ -48,3 +48,8 @@ li {
 .container {
 	clear:both;
 }
+
+/*Nikki added this hover action. Feel free to remove it or change it.*/
+#connect-with-me img:hover {
+	border: 2px solid #777;
+}
