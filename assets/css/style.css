@@ -95,6 +95,7 @@ p {
 	margin: 50px 20px 20px 200px;
 	width:650px;
 	float:left;
+}
 
 form {
 	font-family:Arial;
@@ -113,6 +114,7 @@ aside {
 	border-width:1px;
 	align-content:center;
 }
+
 footer {
 	clear:both;
 	background:#dddddd;
